@@ -8,7 +8,7 @@ gitea/gitea:latest
 flaresolverr/flaresolverr:latest
 redis:latest
 adguard/adguardhome:latest
-herberthe0229/iptv-sources:latest
+herberthe0229/iptv-sources:lates
 adminer:latest
 6053537/portainer-ce:latest
 stilleshan/subconverter:latest
@@ -31,3 +31,7 @@ deluan/navidrome:develop
 ydkn/cups:latest
 jellyfin/jellyfin:latest
 boredazfcuk/icloudpd:latest
+zmisgod/iptvchecker:latest
+whyour/qinglong:latest
+nginx:latest
+herberthe0229/iptv-sources:latest
